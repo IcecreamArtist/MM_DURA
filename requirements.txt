@@ -1,0 +1,12 @@
+omegaconf==2.3.0
+torchio
+ipdb
+opencv-python
+pandas
+pytorch-lightning==1.9.4
+git+https://github.com/katsura-jp/pytorch-cosine-annealing-with-warmup
+einops
+scikit-learn
+pysnptools
+wandb
+timm
